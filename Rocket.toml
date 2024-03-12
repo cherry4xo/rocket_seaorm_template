@@ -1,0 +1,2 @@
+[default.databases.rocketstarter]
+url = "postgres://postgres:256128@localhost:5433/rust"
